@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+    <head>
+      <meta charset ="UTF-8">
+      <meta name=""description" content="have fun">
+      <title> <i>success!</i></title>
+    </head>
+    <body style = "background-color:skyblue;" >
+
+     <h1>
+        Welcome to the world of html
+     </h1>
+     <p>html is an awesome language where we can create what ever we want</p>
+     <p></p>
+     <i>italized words looks awesome</i>
+     <b>Bold tags are very usefull to highlight</b>
+
+     <br/>
+
+     <p style="color:green;"><b>HTML</b></p>
+     <hr/>
+     <p>thank you!</p>
+     
+
+    </body>
+</head>
