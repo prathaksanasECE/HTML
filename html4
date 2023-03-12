@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>images</title>
+    </head>
+    <body>
+        <h1>Facts about Plants</h1>
+        <hr/>
+        <header style = "color:darkolivegreen;">
+            <h1>Lets get started</h1>
+        </header>
+        <main>
+            <article>
+                <h2>
+                   Watching nature's creation is always mindblowing
+                </h2>
+                <br/>
+                <a width="500" href="https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"target="_blank">great right!</a>
+            </article>
+          
+                <h3>now lets see about some unusual plants</h3>
+                
+           
+        </main>
+        <footer>
+          <a width="500" href="https://bambubatu.com/wp-content/uploads/2019/06/How-fast-does-bamboo-grow.jpg">Chinese bamboo tree</a>
+         <p>In a six-week period the Chinese bamboo tree grows to a staggering ninety feet tall-that's right,<b> ninety feet tall! </b>Wikipedia suggests that the tree has been measured to grow 122 cm (48 inches), in a 24 hour period and can reach a maximum growth rate of 99 cm (39 inches), per hour for short periods of time</p>
+        </footer>
+    </body>
+    <hr/>
+    thank you!
+</html>
